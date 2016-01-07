@@ -1,0 +1,15 @@
+.tittle{
+    font-family: sans-serif;
+    color: royalblue;
+    font-weight: 900;
+}
+
+.outertable{
+    border: solid 5px blue;
+    font-family: sans-serif;
+}
+
+.innertable{
+    border: solid 3px blue;
+    font-family: sans-serif;
+}
