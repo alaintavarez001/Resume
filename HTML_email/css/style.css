@@ -27,3 +27,24 @@
     font-weight: 900;
     font-size: 30px;
 }
+
+input{
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+form{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: navy;
+    font-weight: 700;
+}
+
+button{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: navy;
+    font-weight: 700;
+    background-color: lightgrey;
+    
+}
