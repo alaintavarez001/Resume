@@ -1,15 +1,29 @@
 .tittle{
     font-family: sans-serif;
-    color: royalblue;
+    color: navy;
     font-weight: 900;
+    font-size: 20px;
 }
 
 .outertable{
-    border: solid 5px blue;
+    border: solid 2px navy;
     font-family: sans-serif;
+    background-color:lightgrey;
 }
 
 .innertable{
-    border: solid 3px blue;
+    border: solid 1px navy;
     font-family: sans-serif;
+    width: 100%;
+}
+
+.jobtittle{
+    font-weight: 600;
+}
+
+.name{
+    font-family: sans-serif;
+    color: navy;
+    font-weight: 900;
+    font-size: 30px;
 }
